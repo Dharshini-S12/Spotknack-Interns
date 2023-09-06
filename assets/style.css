@@ -78,27 +78,27 @@ body{
     /*margin-top: 150%;*/
   }
   .homewrapper .container:nth-child(1){
-    top: 110%;
+    /*top: 110%;*/
     left: 45%;
     animation: square 12s linear infinite;
   }
   .homewrapper .container:nth-child(2){
-    top: 100%;
+    /*top: 100%;*/
     left: 55%;
     animation: square 10s linear infinite;
   }
   .homewrapper .container:nth-child(3){
-    top: 120%;
+    /*top: 120%;*/
     left: 75%;
     animation: square 11s linear infinite;
   }
   .homewrapper .container:nth-child(4){
-    top: 120%;
+    /*top: 120%;*/
     left: 33%;
     animation: square 15s linear infinite;
   }
   .homewrapper .container:nth-child(5){
-    top: 130%;
+    /*top: 130%;*/
     left: 25%;
     animation: square 13s linear infinite;
   }

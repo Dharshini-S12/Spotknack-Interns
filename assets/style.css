@@ -295,5 +295,6 @@ button{
   }*/
   .Intern1 {
     margin-top: 150%;
+    display: none;
   }
 }

@@ -220,7 +220,7 @@ button{
 
 @media screen and(max-width: 412px){
   .About{
-       font-size: 17px;
+       font-size: 10px;
   }
   .homewrapper .container:nth-child(1){
     top: 110%;
@@ -294,6 +294,6 @@ button{
   
   }*/
   .Intern1 {
-    margin-top: 120%;
+    margin-top: 150%;
   }
 }

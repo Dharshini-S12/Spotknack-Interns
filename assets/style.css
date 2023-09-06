@@ -218,7 +218,7 @@ button{
 
 
 
-@media screen and(min-width: 412px){
+@media screen and(max-width: 650px){
   .About{
        font-size: 10px;
   }

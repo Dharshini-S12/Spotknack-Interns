@@ -297,4 +297,23 @@ button{
     margin-top: 80%;
   
   }
+  .img999{
+    /*width: 150px;
+height: 130px;
+border-radius: 350px;*/
+width: 100px;
+height: 94px;
+border-radius: 130px;
+}
+.homewrapper .container{
+  /*width: 150px;
+  height: 140px;
+  border-radius: 200px;*/
+  width: 100px;
+  height: 94px;
+  border-radius: 130px;
+  border: 2.5px solid rgb(90, 120, 93);
+  position: absolute;
+  /*margin-top: 150%;*/
+}
 }

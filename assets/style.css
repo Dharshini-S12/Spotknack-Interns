@@ -218,34 +218,34 @@ button{
 
 
 
-@media screen and(max-width: 650px){
+@media screen and (max-width: 650px){
   .About{
-       font-size: 10px;
+       font-size: 15px;
   }
   .homewrapper .container:nth-child(1){
-    top: 110%;
-    margin-left: 25%;
-    animation: square 12s linear infinite;
+    top: 90%;
+    margin-left: 15%;
+    animation: square 11s linear infinite;
   }
   .homewrapper .container:nth-child(2){
-    top: 100%;
+    top: 80%;
     margin-left: 20%;
     animation: square 10s linear infinite;
   }
   .homewrapper .container:nth-child(3){
-    top: 120%;
-    margin-left: 20%;
+    top: 75%;
+    margin-left: 10%;
     animation: square 11s linear infinite;
   }
   .homewrapper .container:nth-child(4){
-    top: 120%;
+    top: 80%;
     margin-left: 15%;
-    animation: square 15s linear infinite;
+    animation: square 12s linear infinite;
   }
   .homewrapper .container:nth-child(5){
-    top: 130%;
+    top: 75%;
     margin-left: 14%;
-    animation: square 13s linear infinite;
+    animation: square 14s linear infinite;
   }
   @keyframes square{
     0%{
@@ -294,7 +294,7 @@ button{
   
   }*/
   .Intern1 {
-    margin-top: 150%;
-    display: none;
+    margin-top: 65%;
+  
   }
 }

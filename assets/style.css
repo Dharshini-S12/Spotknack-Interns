@@ -220,7 +220,7 @@ button{
 
 @media screen and (max-width: 650px){
   .About{
-       font-size: 15px;
+       font-size: 17px;
   }
   .homewrapper .container:nth-child(1){
     top: 100%;

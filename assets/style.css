@@ -223,27 +223,27 @@ button{
        font-size: 15px;
   }
   .homewrapper .container:nth-child(1){
-    top: 90%;
+    top: 100%;
     margin-left: 15%;
     animation: square 11s linear infinite;
   }
   .homewrapper .container:nth-child(2){
-    top: 80%;
+    top: 110%;
     margin-left: 20%;
     animation: square 10s linear infinite;
   }
   .homewrapper .container:nth-child(3){
-    top: 75%;
+    top: 100%;
     margin-left: 10%;
     animation: square 11s linear infinite;
   }
   .homewrapper .container:nth-child(4){
-    top: 80%;
+    top: 95%;
     margin-left: 15%;
     animation: square 12s linear infinite;
   }
   .homewrapper .container:nth-child(5){
-    top: 75%;
+    top: 105%;
     margin-left: 14%;
     animation: square 14s linear infinite;
   }

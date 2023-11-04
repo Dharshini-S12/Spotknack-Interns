@@ -5,6 +5,7 @@ Hello all,
    View the project on:
    https://spotknack-interns.vercel.app/
    Screenshot:
-   ![Uploading Screenshot (2).png…]()
+   ![Screenshot (2)](https://github.com/Dharshini-S12/Spotknack-Interns/assets/118833017/bd157443-825d-48b8-af70-c5ccf7cec144)
+
 
  
